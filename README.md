@@ -23,11 +23,11 @@ macOS 14 이상 · Apple Silicon 및 Intel
 <!-- howmeowch:windows:start -->
 ### Windows
 
-[![Windows v0.1.0](https://img.shields.io/badge/Windows-v0.1.0-0078d4?style=for-the-badge)](https://github.com/mmisman/how-meowch/releases/tag/windows%2Fv0.1.0)
+[![Windows v0.2.0](https://img.shields.io/badge/Windows-v0.2.0-0078d4?style=for-the-badge)](https://github.com/mmisman/how-meowch/releases/tag/windows%2Fv0.2.0)
 
-[![Windows 다운로드](https://img.shields.io/badge/Download-Windows_EXE-2ea44f?style=for-the-badge)](https://github.com/mmisman/how-meowch/releases/download/windows%2Fv0.1.0/HowMeowch-Setup-0.1.0-win-x64.exe)
+[![Windows 다운로드](https://img.shields.io/badge/Download-Windows_EXE-2ea44f?style=for-the-badge)](https://github.com/mmisman/how-meowch/releases/download/windows%2Fv0.2.0/HowMeowch-Setup-0.2.0-win-x64.exe)
 
-**[HowMeowch-Setup-0.1.0-win-x64.exe](https://github.com/mmisman/how-meowch/releases/download/windows%2Fv0.1.0/HowMeowch-Setup-0.1.0-win-x64.exe)** · [릴리스 노트](https://github.com/mmisman/how-meowch/releases/tag/windows%2Fv0.1.0)
+**[HowMeowch-Setup-0.2.0-win-x64.exe](https://github.com/mmisman/how-meowch/releases/download/windows%2Fv0.2.0/HowMeowch-Setup-0.2.0-win-x64.exe)** · [릴리스 노트](https://github.com/mmisman/how-meowch/releases/tag/windows%2Fv0.2.0)
 
 Windows 10/11 · x64
 <!-- howmeowch:windows:end -->
