@@ -11,11 +11,11 @@ Claude · Codex · Antigravity의 여러 계정을 연결하고, 남은 사용�
 <!-- howmeowch:macos:start -->
 ### macOS
 
-[![macOS v0.1.0](https://img.shields.io/badge/macOS-v0.1.0-24292f?style=for-the-badge)](https://github.com/mmisman/how-meowch/releases/tag/macos%2Fv0.1.0)
+[![macOS v0.2.0](https://img.shields.io/badge/macOS-v0.2.0-24292f?style=for-the-badge)](https://github.com/mmisman/how-meowch/releases/tag/macos%2Fv0.2.0)
 
-[![macOS 다운로드](https://img.shields.io/badge/Download-macOS_ZIP-2ea44f?style=for-the-badge)](https://github.com/mmisman/how-meowch/releases/download/macos%2Fv0.1.0/HowMeowch-0.1.0-macos.zip)
+[![macOS 다운로드](https://img.shields.io/badge/Download-macOS_ZIP-2ea44f?style=for-the-badge)](https://github.com/mmisman/how-meowch/releases/download/macos%2Fv0.2.0/HowMeowch-0.2.0-macos.zip)
 
-**[HowMeowch-0.1.0-macos.zip](https://github.com/mmisman/how-meowch/releases/download/macos%2Fv0.1.0/HowMeowch-0.1.0-macos.zip)** · [릴리스 노트](https://github.com/mmisman/how-meowch/releases/tag/macos%2Fv0.1.0)
+**[HowMeowch-0.2.0-macos.zip](https://github.com/mmisman/how-meowch/releases/download/macos%2Fv0.2.0/HowMeowch-0.2.0-macos.zip)** · [릴리스 노트](https://github.com/mmisman/how-meowch/releases/tag/macos%2Fv0.2.0)
 
 macOS 14 이상 · Apple Silicon 및 Intel
 <!-- howmeowch:macos:end -->
